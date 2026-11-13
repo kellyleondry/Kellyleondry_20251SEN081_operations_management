@@ -11,13 +11,12 @@
   and improve data processing and accuracy.
 
 ## 2. PROJECT OBJECTIVES
-
-  -To improve the accuracy and organization of business information.
-  -To simplify employee data management and retrieval.
-  -To automate common business data operations.
-  -To improve the efficiency of processing multiple employee records.
-  -To reduce errors when managing and updating business records.
-  -To provide a centralized system for managing organizational information.
+To improve the accuracy and organization of business information.
+To simplify employee data management and retrieval.
+To automate common business data operations.
+To improve the efficiency of processing multiple employee records.
+To reduce errors when managing and updating business records.
+To provide a centralized system for managing organizational information.
 
 ## 3. DATA SOURCE
   The project will use sample employee and department records created manually collected from survey
