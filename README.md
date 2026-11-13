@@ -48,7 +48,6 @@
   Exception handling.
 
 ## 7. REFERENCES
-
-  Oracle Database PL/SQL Language Reference: https://docs.oracle.com/en/database/oracle/oracle-database/21/lnpls/
-  Oracle Database 21c Documentation: https://docs.oracle.com/en/database/oracle/oracle-database/21/
-  Course lecture notes and practical materials.
+Oracle Database PL/SQL Language Reference: https://docs.oracle.com/en/database/oracle/oracle-database/21/lnpls/
+Oracle Database 21c Documentation: https://docs.oracle.com/en/database/oracle/oracle-database/21/
+Course lecture notes and practical materials.
