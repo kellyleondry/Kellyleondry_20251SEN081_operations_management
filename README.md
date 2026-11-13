@@ -3,14 +3,14 @@
 
 # Integrated Business operations Management system
 
-1. PROBLEM STATEMENT
+## 1. PROBLEM STATEMENT
 
   Managing business operations manually can be time-consuming and may sometimes lead to errors.
   The Integrated Business Operations Management System aims to provide a centralized database solution
   using Oracle PL/SQL to simplify business data management, automate database operations,
   and improve data processing and accuracy.
 
-2. PROJECT OBJECTIVES
+## 2. PROJECT OBJECTIVES
 
   -To improve the accuracy and organization of business information.
   -To simplify employee data management and retrieval.
@@ -19,11 +19,11 @@
   -To reduce errors when managing and updating business records.
   -To provide a centralized system for managing organizational information.
 
-3. DATA SOURCE
+## 3. DATA SOURCE
   The project will use sample employee and department records created manually collected from survey
   related to daily Business operations and transactions
 
-4. PLANNED TABLES
+## 4. PLANNED TABLES
   1. Employees Table
   2. Department Table
   3. Positions Table
@@ -33,7 +33,7 @@
   7. Customers Table
   8. Audit_Logos Table
 
-5. PLANNED PL/SQL FEATURES
+## 5. PLANNED PL/SQL FEATURES
 
   User-defined records.
   %ROWTYPE attribute.
@@ -48,7 +48,7 @@
   Stored procedures and functions.
   Exception handling.
 
-7. REFERENCES
+## 7. REFERENCES
 
   Oracle Database PL/SQL Language Reference: https://docs.oracle.com/en/database/oracle/oracle-database/21/lnpls/
   Oracle Database 21c Documentation: https://docs.oracle.com/en/database/oracle/oracle-database/21/
